@@ -2,7 +2,7 @@
     "conditions": [
       {
         "name": "Thyroid",
-        "imagesrc":"thyroid.jpg",
+        "imagesrc":"https://uoflhealth.org/wp-content/uploads/2022/11/Thyroid-Gland-1180x560-1.jpg",
         "symptoms": [
           "Fatigue",
           "Weight gain or loss",
@@ -19,7 +19,7 @@
       },
       {
         "name": "Diabetes",
-        "imagesrc":"diabeties.jpg",
+        "imagesrc":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapi.time.com%2Fwp-content%2Fuploads%2F2018%2F03%2Fglucose-monitor-diabetes.jpg",
         "symptoms": [
           "Frequent urination",
           "Increased thirst",
@@ -36,7 +36,7 @@
       },
       {
         "name": "High Blood Pressure",
-        "imagesrc":"blood_pressure.jpg",
+        "imagesrc":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.innovativehomecare.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fhypertension.jpg",
         "symptoms": [
           "Headaches",
           "Shortness of breath",
